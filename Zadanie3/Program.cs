@@ -15,7 +15,7 @@ else if (wiek < 18)
 {
     Console.WriteLine("Kategoria: Nastolatek");
 }
-else if (wiek < 64)
+else if (wiek <= 64)
 {
     Console.WriteLine("Kategoria: Dorosły");
 }
