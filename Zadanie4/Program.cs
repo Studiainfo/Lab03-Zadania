@@ -12,6 +12,7 @@ bool znaHaslo = odpowiedz2 == "y";
 
 
 
+
 if (zdrowie <= 0)
 {
     Console.WriteLine("Bohater nie zyje");
